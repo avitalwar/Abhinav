@@ -23,10 +23,7 @@ function Login() {
                 <BsFillMoonStarsFill className="cursor-pointer mr-3 dark:fill-white" onClick={()=>setDarkMode(!darkMode)}/>
               </li>
               <li>
-                <a
-                  href="#"
-                  className="bg-gradient-to-tr from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-3"
-                >
+                <a href="https://avitalwar.github.io/Abhinav/NotCreatedYet.pdf" download className="bg-gradient-to-tr from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-3" >
                   Resume
                 </a>
               </li>
